@@ -14,7 +14,14 @@
     background-color:#63707A;
     position:fixed;
 }
-
+#torso{
+    margin:auto;
+    width:800px;
+}
+#torso div{
+    display:inline-block;
+    vertical-align:top;
+}
 .name{
     float:left;
     margin-left:20px;
@@ -41,7 +48,7 @@
  
 #inline{
     display:inline-block;
-    vertical-align:bottom;
+    vertical-align:top;
 }    
 .left{
     height:1000px;
@@ -70,6 +77,7 @@
     border:solid black 1px;
     border-radius:5px;
     clear:both;
+    vertical-align:top;
    background-color:#63707A;
 }
 h2{
