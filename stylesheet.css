@@ -47,8 +47,9 @@
     margin-top:100px;
     margin-bottom:10px;
     background-color:#55604C;
-    vertical-align:bottom;
     display:inline-block;
+    vertical-align:top;
+    
 }
 .right{
     height:1000px;
@@ -60,7 +61,7 @@
     margin-left:10px;
     display:inline-block;
    background-color:#83887E;
-  
+   vertical-align:top;
 }
 #footer{
     height:100px;
