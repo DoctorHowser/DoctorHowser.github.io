@@ -15,10 +15,6 @@
     position:fixed;
     clear:both;
 }
-#torso{
-    margin:auto;
-    width:800px;
-}
 .name{
     float:left;
     margin-left:20px;
@@ -63,7 +59,7 @@
     margin-top:100px;
     margin-left:10px;
    background-color:#83887E;
-   float:left;
+   float:right;
 }
 #footer{
     height:100px;
