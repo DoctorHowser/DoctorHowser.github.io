@@ -13,14 +13,11 @@
     margin-bottom:10px;
     background-color:#63707A;
     position:fixed;
+    clear:both;
 }
 #torso{
     margin:auto;
     width:800px;
-}
-#torso div{
-    display:inline-block;
-    vertical-align:top;
 }
 .name{
     float:left;
@@ -45,11 +42,6 @@
 .align{
    margin-left:20px; 
 }
- 
-#inline{
-    display:inline-block;
-    vertical-align:top;
-}    
 .left{
     height:1000px;
     width:150px;
@@ -58,6 +50,7 @@
     margin-top:100px;
     margin-bottom:10px;
     background-color:#55604C;
+    float:left;
     
     
 }
@@ -70,6 +63,7 @@
     margin-top:100px;
     margin-left:10px;
    background-color:#83887E;
+   float:left;
 }
 #footer{
     height:100px;
