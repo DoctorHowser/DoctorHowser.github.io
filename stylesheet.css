@@ -39,7 +39,7 @@
    margin-left:20px; 
 }
 .left{
-    height:1000px;
+    height:1100px;
     width:150px;
     border:solid black 1px;
     border-radius:5px;
@@ -51,7 +51,7 @@
     
 }
 .right{
-    height:1000px;
+    height:1100px;
     width:557px;
     border:solid black 1px;
     border-radius:5px;
@@ -88,4 +88,5 @@ img{
 }
 li{
     margin-right:20px;
+    margin-bottom:10px;
 }
