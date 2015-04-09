@@ -61,7 +61,7 @@
     margin-left:10px;
     display:inline-block;
    background-color:#83887E;
-   clear:left;
+   display:inline-block;
 }
 #footer{
     height:100px;
