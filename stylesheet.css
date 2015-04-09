@@ -44,12 +44,11 @@
     width:150px;
     border:solid black 1px;
     border-radius:5px;
-    float:left;
     margin-top:100px;
     margin-bottom:10px;
     background-color:#55604C;
     vertical-align:bottom;
-    
+    display:inline-block;
 }
 .right{
     height:1000px;
@@ -61,7 +60,7 @@
     margin-left:10px;
     display:inline-block;
    background-color:#83887E;
-   display:inline-block;
+  
 }
 #footer{
     height:100px;
