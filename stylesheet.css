@@ -39,7 +39,22 @@
     float:right;
     margin-right:20px;
 }
-
+.photo{
+    width: 100px; 
+    height: 100px; 
+    overflow: hidden;
+    
+}
+.photo img{
+    height:150px;
+    width:100px;
+    display:block;
+    margin-left:25px;
+    margin-top:5px;
+    border-radius:5px;
+    position:fixed;
+    overflow:hidden;
+}
 .align{
    margin-left:20px; 
 }
