@@ -46,10 +46,10 @@
     
 }
 .photo img{
-    height:150px;
-    width:150px;
+    height:140px;
+    width:140px;
     display:block;
-    margin-left:25px;
+    margin-left:5px;
     margin-top:5px;
     border-radius:5px;
     position:fixed;
@@ -100,7 +100,7 @@ img{
     height:100px;
     width:100px;
     display:block;
-    margin-left:25px;
+    margin-left:5px;
     margin-top:5px;
     border-radius:5px;
     position:fixed;
