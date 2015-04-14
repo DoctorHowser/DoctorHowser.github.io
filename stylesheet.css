@@ -20,14 +20,15 @@
     clear:both;
 }
 .name{
+    font-family:"Times New Roman", Georgia, Serif;
     float:left;
     margin-left:20px;
-    margin-top:5px;
+    margin-top:10px;
 }
 #info{
     float:right;
     margin-right:20px;
-    margin-top:5px;
+    margin-top:10px;
     color:black;
 }
 #address{
