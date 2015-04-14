@@ -42,8 +42,8 @@
     
 }
 .photo img{
-    height:140px;
-    width:140px;
+    height:240px;
+    width:240px;
     display:block;
     margin-left:5px;
     margin-top:5px;
@@ -91,15 +91,6 @@ h2{
     margin-right:20px;
     border-bottom:1px solid;
 }
-
-img{
-    height:100px;
-    width:100px;
-    display:block;
-    margin-left:25px;
-    margin-top:5px;
-    border-radius:5px;
-    position:fixed;
     
 }
 li{
