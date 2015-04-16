@@ -37,11 +37,13 @@
     width:325px;
     float:left;
     margin-left:20px;
+    margin-bottom:10px;
 }
 #phone{
    width:100px;
    float:right;
    margin-right:20px;
+   margin-bottom:10px;
 }
 .photo{
     width: 100px; 
