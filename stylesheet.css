@@ -22,6 +22,7 @@
     width:720px;
     margin-bottom:-20px;
     background:transparent;
+    clear:both;
 }
 .name{
     font-family:"Times New Roman", Georgia, Serif;
