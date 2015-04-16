@@ -34,11 +34,12 @@
 }
 #address{
     clear:left;
+    display:inline-block;
     margin-left:20px;
 }
 #phone{
-   float:right;
-   margin-top:-20px;
+   display:inline-block;
+   
    margin-right:20px;
 }
 .photo{
