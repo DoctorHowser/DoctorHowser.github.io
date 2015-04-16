@@ -106,7 +106,9 @@
     float:right;
     text-align:right;
 }
-
+#social p{
+    margin-right:20px;
+}
 #social li{
     display:inline;
     text-decoration:none;
