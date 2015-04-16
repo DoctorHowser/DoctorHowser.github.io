@@ -30,12 +30,13 @@
     margin-right:20px;
     margin-top:10px;
     color:black;
+    font-family:"Times New Roman", Georgia, Serif;
 }
 #address{
     clear:left;
 }
 #phone{
-   display:inline;
+   
 }
 .photo{
     width: 100px; 
