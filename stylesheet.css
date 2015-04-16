@@ -102,9 +102,14 @@
     vertical-align:top;
    background-color:#63707A;
 }
+#social{
+    float:right;
+}
+
 #social li{
     display:inline;
     text-decoration:none;
+    
     
 }
 h2{
