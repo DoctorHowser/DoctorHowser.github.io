@@ -32,13 +32,10 @@
     color:black;
 }
 #address{
-    float:left;
-    margin-bottom:20px;
+    
 }
 #phone{
-    float:right;
-    margin-right:20px;
-    margin-bottom:20px;
+   
 }
 .photo{
     width: 100px; 
