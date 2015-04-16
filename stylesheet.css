@@ -7,23 +7,21 @@
     margin:auto;
 }
 
-.sticky{
-    position:fixed;
-    margin-bottom:0px;
-    height:110px;
-    width:720px;
-    margin-top:-10px;
-    Opacity:1;
-    border-bottom:solid white 0px;
-}
+
 #header{
     height:100px;
     width:720px;
     border:solid black 1px;
     border-radius:5px;
+    margin-top:-10px
     background-color:#63707A;
-    
+    position:fixed;
     clear:both;
+}
+#spacer{
+    width:720px;
+    margin-bottom:-20px;
+    background:transparent;
 }
 .name{
     font-family:"Times New Roman", Georgia, Serif;
