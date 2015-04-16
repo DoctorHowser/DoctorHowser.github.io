@@ -112,6 +112,8 @@
 #social li{
     display:inline;
     text-decoration:none;
+}
+#social li img{
     height:50px;
     width:50px;
     
