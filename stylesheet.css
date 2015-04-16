@@ -9,7 +9,7 @@
 
 .sticky{
     position:fixed;
-    margin-bottom:10px;
+    margin-bottom:0px;
     height:110px;
     width:720px;
     margin-top:-10px;
