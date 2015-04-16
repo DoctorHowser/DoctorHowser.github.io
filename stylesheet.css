@@ -18,12 +18,6 @@
     position:fixed;
     clear:both;
 }
-.spacer{
-    width:720px;
-    margin-bottom:-20px;
-    background:transparent;
-    position:fixed;
-}
 .name{
     font-family:"Times New Roman", Georgia, Serif;
     float:left;
