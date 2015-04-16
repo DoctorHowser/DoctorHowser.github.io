@@ -116,24 +116,11 @@
 #social li img{
     height:50px;
     width:50px;
-    
-    
 }
 h2{
     margin-left:20px;
     margin-right:20px;
     border-bottom:1px solid;
-}
-
-img{
-    height:100px;
-    width:100px;
-    display:block;
-    margin-left:5px;
-    margin-top:5px;
-    border-radius:5px;
-    position:fixed;
-    
 }
 ul{
     clear:both;
