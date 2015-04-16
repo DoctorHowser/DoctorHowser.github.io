@@ -18,7 +18,7 @@
     position:fixed;
     clear:both;
 }
-#spacer{
+.spacer{
     width:720px;
     margin-bottom:-20px;
     background:transparent;
