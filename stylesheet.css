@@ -14,14 +14,13 @@
     width:720px;
     margin-top:-15px;
     Opacity:1;
+    border-bottom:solid white 10px;
 }
 #header{
     height:100px;
     width:720px;
     border:solid black 1px;
     border-radius:5px;
-    margin-top:-15px;
-    
     background-color:#63707A;
     
     clear:both;
