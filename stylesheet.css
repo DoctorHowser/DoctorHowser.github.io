@@ -34,10 +34,12 @@
 #address{
     float:left;
     margin-left:20px;
+    margin-bottom:10px;
 }
 #phone{
     float:right;
     margin-right:20px;
+    margin-bottom:10px;
 }
 .photo{
     width: 100px; 
@@ -72,7 +74,7 @@
 }
 .right{
     height:1300px;
-    width:557px;
+    width:556px;
     border:solid black 1px;
     border-radius:5px;
     margin-bottom:10px;
