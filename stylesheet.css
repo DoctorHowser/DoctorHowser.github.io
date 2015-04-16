@@ -26,7 +26,7 @@
     margin-top:10px;
 }
 #info{
-    float:right;
+    float:left;
     margin-right:20px;
     margin-top:10px;
     color:black;
@@ -36,7 +36,7 @@
     clear:left;
 }
 #phone{
-   
+   float:left;
 }
 .photo{
     width: 100px; 
