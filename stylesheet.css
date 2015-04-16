@@ -102,6 +102,10 @@
     vertical-align:top;
    background-color:#63707A;
 }
+#social{
+    display:inline;
+    
+}
 h2{
     margin-left:20px;
     margin-right:20px;
