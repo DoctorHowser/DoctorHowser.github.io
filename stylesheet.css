@@ -35,7 +35,7 @@
     clear:left;
 }
 #phone{
-   float:right;
+   display:inline;
 }
 .photo{
     width: 100px; 
