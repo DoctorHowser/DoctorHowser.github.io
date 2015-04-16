@@ -108,6 +108,9 @@ img{
     position:fixed;
     
 }
+ul{
+    clear:both;
+}
 li{
     margin-right:20px;
     margin-bottom:10px;
