@@ -7,16 +7,21 @@
     margin:auto;
 }
 
-
+.sticky{
+    position:fixed;
+    margin-bottom:10px;
+    height:110px;
+    width:720px;
+}
 #header{
     height:100px;
     width:720px;
     border:solid black 1px;
     border-radius:5px;
     margin-top:-15px;
-    margin-bottom:10px;
+    
     background-color:#63707A;
-    position:fixed;
+    
     clear:both;
 }
 .name{
