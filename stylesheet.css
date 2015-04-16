@@ -102,8 +102,9 @@
     vertical-align:top;
    background-color:#63707A;
 }
-#social{
+#social li{
     display:inline;
+    text-decoration:none;
     
 }
 h2{
