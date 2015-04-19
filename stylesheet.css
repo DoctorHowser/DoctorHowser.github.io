@@ -22,7 +22,7 @@
     width:720px;
     height:10px;
     position:fixed;
-    clear:both;
+    float:left;
     
 }
 .name{
