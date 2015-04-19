@@ -8,7 +8,8 @@
 }
 #whitespace{
     height:105px;
-    color:white;
+    background-color:white;
+    position:fixed;
 }
 
 #header{
