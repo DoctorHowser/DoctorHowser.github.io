@@ -6,7 +6,10 @@
     width:800px;
     margin:auto;
 }
-
+#whitespace{
+    height:105px;
+    color:white;
+}
 
 #header{
     height:100px;
