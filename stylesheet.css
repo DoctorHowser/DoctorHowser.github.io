@@ -18,6 +18,13 @@
     position:fixed;
     clear:both;
 }
+#break{
+    width:720px;
+    height:10px;
+    position:fixed;
+    clear:both;
+    
+}
 .name{
     font-family:"Times New Roman", Georgia, Serif;
     float:left;
