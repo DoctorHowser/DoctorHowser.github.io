@@ -23,7 +23,7 @@ li{
 }
 #whitespace{
     height:100px;
-    width:722px;
+    width:726px;
     background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/ricepaper_v3.png);
     position:fixed;
 }
@@ -36,6 +36,7 @@ header {
     margin-top:-10px;
     margin-bottom:5px;
     background-color:#63707A;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     position:fixed;
     clear:both;
 }
@@ -78,6 +79,7 @@ figure {
     margin-left:-35px;
     margin-top:-10px;
     border-radius:5px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     position:fixed;
     overflow:hidden;
 }
@@ -92,6 +94,7 @@ aside {
     margin-top:100px;
     margin-bottom:10px;
     background-color:#55604C;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
     float:left;
     
     
@@ -105,6 +108,7 @@ main {
     margin-top:100px;
     margin-left:10px;
    background-color:#83887E;
+   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
    float:left;
 }
  footer{
@@ -115,6 +119,7 @@ main {
     clear:both;
     vertical-align:top;
    background-color:#63707A;
+   box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
 #social{
     float:right;
@@ -132,4 +137,5 @@ main {
     width:50px;
     margin-top:-10px;
     margin-right:20px;
+    box-shadow: 2px 2px 2px 1px rgba(0, 0, 0, 0.2);
 }
