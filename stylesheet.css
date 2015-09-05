@@ -68,14 +68,13 @@ figure {
     width: 100px; 
     height: 100px; 
     overflow: hidden;
-    
 }
-.photo img{
+ figure img{
     height:140px;
     width:140px;
     display:block;
-    margin-left:5px;
-    margin-top:5px;
+    margin-left:-35px;
+    margin-top:-10px;
     border-radius:5px;
     position:fixed;
     overflow:hidden;
