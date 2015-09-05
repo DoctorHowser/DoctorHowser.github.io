@@ -1,7 +1,9 @@
 *{
     font-family:Helvetica,Arial, sans-serif;
 }
-
+body {
+  background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/ricepaper_v3.png);
+}
 h2{
     margin-left:20px;
     margin-right:20px;
@@ -22,7 +24,7 @@ li{
 #whitespace{
     height:100px;
     width:800px;
-    background-color:white;
+    background: url(http://subtlepatterns2015.subtlepatterns.netdna-cdn.com/patterns/ricepaper_v3.png);
     position:fixed;
 }
 
